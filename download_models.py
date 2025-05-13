@@ -3,7 +3,7 @@ import os
 
 def download_wanx_model():
   # 设置模型ID
-  model_id = 'Xorbits/WanXiang-2.1'
+  model_id = 'Skywork/SkyReels-V2-I2V-1.3B-540P'
   
   # 设置下载目录
   download_path = os.path.join(os.path.dirname(__file__), 'models')
