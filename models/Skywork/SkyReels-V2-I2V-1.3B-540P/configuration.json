@@ -1,0 +1,9 @@
+{
+    "architectures": ["SkyReelsModel"],
+    "model_type": "skyreel",
+    "pipeline": {
+        "type": "image-to-video",
+        "task": "image-to-video"
+    },
+    "framework": "pytorch"
+}
